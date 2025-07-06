@@ -54,7 +54,7 @@ console.log(message); // ❌ Error! message is inside the function
 *💡 var is function-scoped if it's created inside a function.*
 
 
-🎨 **Quick Summary**
+## 🎨 **Quick Summary**
 
 | Scope Type       | Where it works                  | Made with                       | Example use                    |
 |------------------|----------------------------------|----------------------------------|--------------------------------|
@@ -63,7 +63,7 @@ console.log(message); // ❌ Error! message is inside the function
 | 🧪 Function Scope | Only inside function             | `var`                           | `function test() { var y = 2; }` |
 
 
-**🧠 Helpful Tips**
+## 🧠 Helpful Tips
 - `va`r does not respect `{ }` blocks, but it does respect functions.
 - `let` and `const` only work inside the block they’re made in — they respect curly braces `{}`.
 - Global means: "I'm free to go anywhere!"
@@ -71,7 +71,7 @@ console.log(message); // ❌ Error! message is inside the function
 - Function means: "I'm only in my function’s home."
 
 
-**📝 Practice Questions**
+## 📝 Practice Questions
 1. Create a `var` variable outside any function. Can you use it inside a function?
 2. Create a `let` inside a `{ }` block. Try using it outside the block. What happens?
 3. Make a function with a `var` variable inside it. Try using that variable outside the function. What do you see?
