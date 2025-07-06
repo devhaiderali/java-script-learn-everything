@@ -49,7 +49,7 @@ You draw a chalk ring, and immediately place your “Secret Candy” inside a bo
 | Hoisting behavior|Initialized as `undefined` | In TDZ until first line executes | In TDZ until first line executes
 
 ---
-# Practice Problems:
+## Practice Problems:
 **1. Identify the Scope:**
 ```
 if (true) {
