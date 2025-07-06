@@ -80,7 +80,7 @@ OR:
 | Both Together  | Make box and put value right away | `var a = 10;`              |
 ---
 
-# 🎯 Practice Questions:
+## 🎯 Practice Questions:
 
 Try these on your own! (Use your computer or a code playground like JSFiddle or Replit).
 
