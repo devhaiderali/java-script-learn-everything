@@ -1,4 +1,4 @@
-# Scope (Global, Block, Functional).
+#  Scope (Global, Block, Functional).
 
 
 In JavaScript, where you create your variable decides where you can use it.
