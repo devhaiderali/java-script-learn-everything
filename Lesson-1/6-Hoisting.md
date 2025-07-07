@@ -90,4 +90,4 @@ console.log(score);
 5. In your own words: What is hoisting?
 
 
-*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck. ♥*
+*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck.  ♥*
