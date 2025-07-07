@@ -93,4 +93,4 @@ pet = "Dog";
 You have a variable ```age``` that you want to change later, and another variable ```birthYear``` that should never change once set. Which declarations ```(var, let, or const)``` would you choose for each? Explain your choice.
 
 ---
-*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck. ♥*
+*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck.  ♥*
