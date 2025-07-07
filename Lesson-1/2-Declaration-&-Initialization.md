@@ -93,4 +93,4 @@ Try these on your own! (Use your computer or a code playground like JSFiddle or 
 5. Can you create a variable named `score`, and set it to `100`?
 ---
 
-*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck. ♥*
+*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck.  ♥*
