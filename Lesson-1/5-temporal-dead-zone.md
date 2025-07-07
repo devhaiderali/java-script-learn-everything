@@ -58,4 +58,4 @@ var city = "Lahore";
 5. Which variables will give an error if used too early: `var`, `let`, or `const`?
 ---
 
-*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck. ♥*
+*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck.  ♥*
