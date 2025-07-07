@@ -85,4 +85,4 @@ console.log(message); // ❌ Error! message is inside the function
 5. True or False: let variables can be used anywhere in the program once declared.
 ---
 
-*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck. ♥*
+*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck.  ♥*
