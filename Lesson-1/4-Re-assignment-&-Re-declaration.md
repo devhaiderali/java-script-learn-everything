@@ -77,4 +77,4 @@ console.log(city);
 5. Try changing the value of a `let` variable — does it work?
 ---
 
-*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck. ♥*
+*Good luck with these! Try writing out the answers and referring back to the examples if you get stuck.  ♥*
