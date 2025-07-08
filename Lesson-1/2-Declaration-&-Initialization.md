@@ -1,4 +1,4 @@
-#  Declaration & Initialization
+# Declaration & Initialization
 
 
 Let’s learn how we give names and values to things in JavaScript using variables.  
