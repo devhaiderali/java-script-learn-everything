@@ -1,4 +1,4 @@
-# *JavaScript Variable Declarations
+# JavaScript Variable Declarations
 
 *Variable Declarations in JavaScript:*
 - Imagine you have boxes to store your toys or snacks. In JavaScript, we have three “box types” to store information: var, let, and const. Let’s see how each one works!
