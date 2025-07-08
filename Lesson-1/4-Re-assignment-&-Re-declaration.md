@@ -1,4 +1,4 @@
-#  Re-assignment & Re-declaration
+# Re-assignment & Re-declaration
 
 
 In JavaScript, we use variables (boxes) to store values like numbers, words, or anything else.
