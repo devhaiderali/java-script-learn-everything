@@ -40,7 +40,7 @@ You draw a chalk ring, and immediately place your “Secret Candy” inside a bo
 
 ---
 
-| Feature         | Description                  | let                          | const                        |
+| Feature         | var                  | let                          | const                        |
 |-----------------|------------------------------|------------------------------|------------------------------|
 | Scope         |Function or global        |Block `(inside { })` | Block `(inside { })`
 | Can redeclare?| Yes               |No | No
