@@ -14,7 +14,7 @@
 **Real‐life Example:**
 You have a big playroom. You drop a box labeled “LEGOs” anywhere in the playroom, and it’s always reachable. You could even drop another “LEGOs” box and JavaScript won’t mind.
 
-**NOTE:** Don't worry about the terms you dont know, just wait for next modules we'll teach you everything just be patient for now focus on concept. THANK YOU!
+**NOTE:** Don't worry about the terms you dont know, just wait for next modules we'll teach you everything just be patient for now focus on given concepts. THANK YOU!
 
   **B. let**
 - Scope: let boxes live inside the smallest fence (a block) you create—like inside a circle you draw on the floor with chalk. Outside that circle, you can’t see or use that box.
